@@ -16,9 +16,17 @@ This document provides instruction to be followed by Tech team.
 - New branch to be cloned from the Main/Master branch for Creating a documentation 
 
 ### 1 Naming the branches
-- Feature branches should name in the following format 
-  - **branch name**: feature/yourname
-  - **example:** feature/akshay
+- Feature branches for creation a dock should name in the following format 
+  - **branch name**: feature/create-dock-{yourname}
+  - **example:** feature/create-dock-akshay
+
+- Feature branches for updation a dock should name in the following format 
+  - **branch name**: feature/update-dock-{yourname}
+  - **example:** feature/update-dock-akshay
+
+- Feature branches for deletion a dock should name in the following format 
+  - **branch name**: feature/delete-dock-{yourname}
+  - **example:** feature/delete-dock-akshay
 
 ### 2. Creating Pull Requests
 - Once you complete your task on perticular document then you have to push it on your on branch.
